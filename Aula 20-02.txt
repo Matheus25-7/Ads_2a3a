@@ -1,0 +1,6 @@
+git init (iniciar o controle de versao)
+git add . (para inserir um arquivo na proxima versao)
+git commit -m "xxx" (para gerar uma nova versao)
+git status (verifica alterações no projeto)
+git log (lista todos os commits)
+git reset --hard <id do commit> (volta o projeto para um versao)
