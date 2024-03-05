@@ -22,5 +22,6 @@ git add,
 git commit -m "breve descrição da versao"
 
 --verifica todas as versoes criadas
-git logo
+git commit - "breve descrição nova"
+
 
